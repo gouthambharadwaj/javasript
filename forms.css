@@ -1,0 +1,15 @@
+body
+{
+    margin: 25px;
+    background-color:rgb(14, 26, 9);
+    font-style: normal;
+    text-align: center;
+    border-style: groove;
+}
+form
+{
+    color: black;
+    background-color: rgb(155, 179, 23);
+    text-align: center;
+    margin: 10px;
+}
